@@ -5,3 +5,6 @@
 [submodule "_gallery"]
 	path = _gallery
 	url = https://github.com/DIATSIGK/_gallery.git
+[submodule "_gallery218"]
+	path = _gallery218
+	url = https://github.com/DIATSIGK/_gallery.git
